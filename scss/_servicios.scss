@@ -1,0 +1,29 @@
+.container-s{
+    display: flex;
+    justify-content: center;
+}
+
+.texto-s{
+    display: flex;
+    justify-content: center;
+}
+
+.body-s{
+    background-color: bisque;
+}
+
+.container-s2{
+    display: flex;
+    justify-content: center;
+}
+
+.card{
+    margin: 10px;
+}
+
+@media (max-width:420px){
+    .container-s2{
+        display: block;
+        
+    }
+}
